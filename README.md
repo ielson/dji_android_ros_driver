@@ -10,3 +10,4 @@ The DJI driver is a mobile (android) application. It uses the Android (Java) imp
 
 Having the remote control in the loop is actually very important. It provides extra information on its display and most importantly, a safety mechanism to take manual control over the drone (it saved our lives several times when the SW or sensors failed…) 
 
+# CODE WILL BE ADDED SOON.
