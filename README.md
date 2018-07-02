@@ -10,4 +10,15 @@ The DJI driver is a mobile (android) application. It uses the Android (Java) imp
 
 Having the remote control in the loop is actually very important. It provides extra information on its display and most importantly, a safety mechanism to take manual control over the drone (it saved our lives several times when the SW or sensors failed…) 
 
+At any point, switching the RC to "sport mode" will result in full control of the RC and override any commadns from the android driver.
+<<< ADD IMAGE HERE >>>
+
+## DJI API Key
+You will need a valid DJI API Key to compile and run the driver.
+https://developer.dji.com/mobile-sdk/
+
+You can find step-by-step instructions here: https://developer.dji.com/mobile-sdk/documentation/quick-start/index.html
+
+Once you have it, add it to the Manifest.xml in the indicated place.
+
 # CODE WILL BE ADDED SOON.
