@@ -13,6 +13,9 @@ Having the remote control in the loop is actually very important. It provides ex
 At any point, switching the RC to "sport mode" will result in full control of the RC and override any commadns from the android driver.
 <<< ADD IMAGE HERE >>>
 
+## Dependencies
+This driver is base on the android-ros implementation (http://wiki.ros.org/android) and the DJI Mobile SDK for Android (https://github.com/dji-sdk/Mobile-SDK-Android)
+
 ## DJI API Key
 You will need a valid DJI API Key to compile and run the driver.
 https://developer.dji.com/mobile-sdk/
