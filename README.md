@@ -23,5 +23,3 @@ https://developer.dji.com/mobile-sdk/
 You can find step-by-step instructions here: https://developer.dji.com/mobile-sdk/documentation/quick-start/index.html
 
 Once you have it, add it to the Manifest.xml in the indicated place.
-
-# CODE WILL BE ADDED SOON.
